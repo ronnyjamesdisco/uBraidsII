@@ -8,6 +8,6 @@
 
 #### Adaptions / changes:
 
-- interactive BOM added [ibom](https://github.com/ronnyjamesdisco/uBraidsII/tree/master/ibom)
+- added: [Interactive BOM ](https://github.com/ronnyjamesdisco/uBraidsII/tree/master/ibom)
 
-- BOM adjusted for economical reasons [BOM](https://github.com/ronnyjamesdisco/uBraidsII/blob/master/Ubraids%20II%20BOM%2020200705.xlsx)
+- adjusted for economical reasons: [BOM](https://github.com/ronnyjamesdisco/uBraidsII/blob/master/Ubraids%20II%20BOM%2020200705.xlsx)
