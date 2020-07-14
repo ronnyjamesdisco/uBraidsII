@@ -10,4 +10,4 @@
 
 - interactive BOM added [ibom](https://github.com/ronnyjamesdisco/uBraidsII/tree/master/ibom)
 
-- BOM adjusted for economical reasons [BOM](https://github.com/ronnyjamesdisco/uBraidsII/tree/master/Ubraids II BOM 20200705.xlsx)
+- BOM adjusted for economical reasons [BOM](https://github.com/ronnyjamesdisco/uBraidsII/blob/master/Ubraids%20II%20BOM%2020200705.xlsx)
